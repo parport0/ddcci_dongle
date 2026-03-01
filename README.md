@@ -10,6 +10,10 @@ There is an I2C channel broken out into the 3.5mm jack (GND/SDA/SCK/3V3). This s
 
 There is no firmware yet, and this has not been produced and tested yet, beware!
 
+* JLC04161H-7628
+* Make sure to select "FR-4 TG155" as the material when ordering to guarantee impedance control
+* HDMI connectors are best bought separately and soldered manually to avoid added PCBA costs
+
 ![Front of the PCB](/ddcci_dongle_front.png)
 
 ![Back of the PCB](/ddcci_dongle_back.png)
