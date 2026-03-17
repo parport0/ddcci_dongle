@@ -8221,16 +8221,6 @@
 		)
 		(uuid "27d939e4-fe88-4098-a0a1-ea348951e1c2")
 	)
-	(label "DISPLAY_SCK"
-		(at 109.22 240.03 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "345c905c-5e9d-4959-ad6c-ff0960ff5eae")
-	)
 	(label "QSPI_SCLK"
 		(at 236.22 100.33 0)
 		(effects
@@ -8280,6 +8270,16 @@
 			(justify right bottom)
 		)
 		(uuid "47071db8-b728-42d3-b0e5-9d674fbc8f28")
+	)
+	(label "DISPLAY_SCK"
+		(at 109.22 261.62 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "52e8d5e5-5a8f-40df-b6d0-e1a681ebe688")
 	)
 	(label "PERIPHERAL_SDA"
 		(at 355.6 180.34 180)
@@ -8390,6 +8390,16 @@
 			(justify left bottom)
 		)
 		(uuid "95c95fc4-a538-4d07-a1d7-5cf2b76a4d02")
+	)
+	(label "DISPLAY_SDA"
+		(at 109.22 240.03 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "9d646e42-22bb-477a-9b43-95048fdb1b1c")
 	)
 	(label "QSPI_SD0"
 		(at 236.22 88.9 0)
@@ -8600,16 +8610,6 @@
 			(justify left bottom)
 		)
 		(uuid "fba79e30-7093-4b48-a5e4-8fbe76c40e1d")
-	)
-	(label "DISPLAY_SDA"
-		(at 109.22 261.62 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "fc8024fb-2a47-436d-8955-cc9c0bb701f3")
 	)
 	(label "PERIPHERAL_SDA"
 		(at 316.23 93.98 0)
