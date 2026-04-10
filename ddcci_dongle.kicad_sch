@@ -6474,6 +6474,16 @@
 	)
 	(wire
 		(pts
+			(xy 350.52 127) (xy 356.87 127)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "44d80ace-d72d-4f1a-9ec1-60ceeaa28f9a")
+	)
+	(wire
+		(pts
 			(xy 332.74 76.2) (xy 346.71 76.2)
 		)
 		(stroke
@@ -6521,16 +6531,6 @@
 			(type default)
 		)
 		(uuid "49e46643-4cda-40a4-847d-9afa0392f203")
-	)
-	(wire
-		(pts
-			(xy 350.52 121.92) (xy 350.52 119.38)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4b19eb80-a8ea-48aa-9e37-ffaf2513a43b")
 	)
 	(wire
 		(pts
@@ -7121,16 +7121,6 @@
 			(type default)
 		)
 		(uuid "85699dbc-7da4-41d6-9dc8-ca923d55432d")
-	)
-	(wire
-		(pts
-			(xy 346.71 127) (xy 356.87 127)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "858067b0-55f1-4efb-bb0a-5cd26de05c0f")
 	)
 	(wire
 		(pts
@@ -7834,6 +7824,16 @@
 	)
 	(wire
 		(pts
+			(xy 350.52 119.38) (xy 350.52 127)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cb605c4d-0e87-4af3-8998-635bf152c496")
+	)
+	(wire
+		(pts
 			(xy 74.93 34.29) (xy 74.93 27.94)
 		)
 		(stroke
@@ -8374,7 +8374,7 @@
 	)
 	(wire
 		(pts
-			(xy 350.52 121.92) (xy 356.87 121.92)
+			(xy 345.44 121.92) (xy 356.87 121.92)
 		)
 		(stroke
 			(width 0)
@@ -8473,14 +8473,14 @@
 		(uuid "03b744c3-9eef-4429-9597-08f52dd2af8d")
 	)
 	(label "PERIPHERAL_SDA"
-		(at 346.71 127 180)
+		(at 345.44 121.92 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify right bottom)
 		)
-		(uuid "044165ad-bb1b-4beb-89f9-1d7e13183ddb")
+		(uuid "0e0ee831-e10d-4920-85ca-3fb9957dcb84")
 	)
 	(label "USB_DP"
 		(at 83.82 44.45 0)
